@@ -1,3 +1,3 @@
 # Github 101
 
-Basis Workshop on basic Git + Github training
+Basic Workshop on basic Git + Github training
